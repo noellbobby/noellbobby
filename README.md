@@ -1,6 +1,4 @@
 
-<!-- ================= HEADER ================= -->
-
 <h1 align="center">Hey, I'm Noel Bobby 👋</h1>
 
 <h3 align="center">
@@ -9,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noel-bobby-a71ab82b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/noellbobby">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -26,6 +24,8 @@
 - 💻 Exploring Software Development and Full-Stack Development.
 - 🚀 Passionate about building practical projects and learning new technologies.
 - 📍 Bengaluru, Karnataka, India.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +60,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. ReportFlow
+### 📊 ReportFlow
 
 An automated report generation and customization platform.
 
@@ -112,11 +112,10 @@ An automated report generation and customization platform.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noel-bobby-a71ab82b7/">
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  |
   <a href="https://github.com/noellbobby">
-    GitHub
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
